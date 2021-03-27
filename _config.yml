@@ -1,0 +1,17 @@
+title                    : "Les Récréatives"
+title_separator          : "|"
+brief                    : "Votre espace créateurs dans les Landes"
+description              : ""
+url: www.recreatives.net
+nav:
+- page: Accueil
+  permalink: "/"
+
+- page: l'Atelier
+  permalink: atelier
+
+- page: Contactez-nous
+  permalink: contact
+
+- page: La boutique
+  permalink: shop

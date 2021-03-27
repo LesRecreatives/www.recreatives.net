@@ -1,0 +1,31 @@
+<div class="container">
+    <div class="bg-faded p-4 my-4">
+        <hr class="divider">
+
+        <h1 class="text-center text-lg text-uppercase my-0"><strong>{{ page.title }} </strong></h1>
+        
+        <hr class="divider">
+        
+        <div class="row">
+            <div class="col-lg-8">
+                <div class="embed-responsive embed-responsive-16by9 map-container mb-4 mb-lg-0">
+                    <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="{{ page.googlemaps }}"></iframe>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <h5 class="mb-0"><i class="fas fa-phone"></i> Téléphone :</h5>
+                <div class="mb-4"><a href="tel:{{ page.phone }}">{{ page.phone }}</a></div>
+
+                <h5 class="mb-0"><i class="fas fa-envelope"></i> Email :</h5>
+                <div class="mb-4">
+                    <a href="mailto:{{ page.mail }}">{{ page.mail }}</a>
+                </div>
+
+                <h5 class="mb-0"><i class="fas fa-map-marker-alt"></i> Addresse :</h5>
+                <div class="mb-4">
+                    {{ page.address }}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
