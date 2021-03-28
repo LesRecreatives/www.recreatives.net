@@ -6,13 +6,8 @@
     
         <hr class="divider">
     
-        <div class="row">
-            <div class="col-lg-6">
-                <img class="img-fluid mb-4 mb-lg-0" src="/images/{{ page.image }}" alt="{{ page.title }}" title="{{ page.title }}"/>
-            </div>
-            <div class="col-lg-6">
-                {{ content }}
-            </div>
-        </div>
+        <img class="pb-3 col-12 d-md-none" src="/images/{{ page.image }}" />
+        <img class="pr-3 pb-3 float-left d-none d-md-block" width="50%" src="/images/{{ page.image }}" />
+        {{ content }}
     </div>
 </div>

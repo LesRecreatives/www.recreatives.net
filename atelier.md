@@ -1,12 +1,15 @@
 ---
 layout: default
-title:  l'Atelier
-description: Découvrez l'Atelier des Récréatives, ainsi que les activités que nous proposons régulièrement dans notre espace à Bégaar (40400).
+title:  L'espace atelier
+description: Exprimez votre créativité grâce au Do It Yourself au travers de diverses techniques de loisirs créatifs dans l'espace atelier des Récréatives à Bégaar dans les Landes (40400).
 image: atelier.jpeg
-nav_name: l'Atelier
+nav_name: l'espace atelier
 screenshot: atelier.png
-permalink: atelier
+permalink: espace-atelier
 ---
+
+## Les ateliers réguliers
+
 <p style="font-style: italic; text-align: center">Toute l’année, hors vacances scolaires,</p>
 
 __Ateliers enfants (+ de 6 ans) :__ 50€ les 5 séances de 2 heures (ou 12€ la séance), fournitures comprises. Les mercredis de 10h00 à 12h00, 14h30 à 16h30 ou 16h30 à 18h30.
@@ -17,4 +20,8 @@ __Ateliers adultes :__ 55€ les 5 séances de 3 heures (ou 12€ à la séance)
 Les lundis de 14h30 à 17h30 : techniques diverses de loisirs créatifs.  
 Les jeudis de 14h30 à 17h30 : couture.
 
-__Ateliers anniversaires :__ le samedi de 14h30 à 16h30 (10€/enfant, fournitures comprises). Le projet est à déterminer avec les parents. Il y a possibilité d’amener le goûter. 
+## Les ateliers ponctuels
+
+__Ateliers anniversaires :__ le samedi de 14h30 à 16h30 (10€/enfant, fournitures comprises). Plusieurs options d'atelier sont proposées aux parents afin de personnaliser cet évènement. Et si vous le souhaitez, vous pouvez apporter le goûter. 
+
+__Ateliers exceptionnels :__ variable selon la demande et les évènements du calendrier (des annonces sont régulièrement faîtes sur <a style="color:black" href="https://www.facebook.com/Recreatives"><i class="fab fa-facebook"></i> Facebook</a>).

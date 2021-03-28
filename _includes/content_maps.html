@@ -2,7 +2,7 @@
     <div class="bg-faded p-4 my-4">
         <hr class="divider">
 
-        <h1 class="text-center text-lg text-uppercase my-0"><strong>{{ page.title }} </strong></h1>
+        <h1 class="text-center text-lg text-uppercase my-0"><strong>{{ page.title }}</strong></h1>
         
         <hr class="divider">
         
@@ -27,5 +27,19 @@
                 </div>
             </div>
         </div>
+        <hr class="divider">
+
+        <h2 class="text-center text-lg text-uppercase my-0"><strong>Les horaires</strong></h2>
+                
+        <hr class="divider">
+
+        <ul class="list-unstyled list-hours mb-5 text-left mx-auto">
+            {% for n in page.horaire %}
+            <li class="list-unstyled-item list-hours-item d-flex">
+                {{ n.day }}
+                <span class="ml-auto">{{ n.hour }}</span>
+            </li>
+            {% endfor %}
+        </ul>
     </div>
 </div>

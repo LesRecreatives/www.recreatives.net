@@ -1,7 +1,7 @@
 ---
 layout: contact
 title:  Contactez-nous !
-description: Contactez-nous pour plus d'informations sur les ateliers, ou sur les expositions des créateurs locaux.
+description: Contactez-nous pour plus d'informations sur les ateliers, ou sur les créations des artisans, créateurs et producteurs locaux.
 phone: 05 58 43 35 58
 mail: lesrecreatives.begaar@gmail.com
 address: 497 Route des chasseurs<br>
@@ -10,4 +10,19 @@ googlemaps: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2878.279744173
 nav_name: Contactez-nous
 screenshot: contact.png
 permalink: contact
+horaire:
+- day: Lundi
+  hour: 09:30 - 12:30 et 14:30 - 18:30
+- day: Mardi
+  hour: 09:30 - 12:30 et 14:30 - 18:30
+- day: Mercredi
+  hour: 09:30 - 12:30 et 14:30 - 18:30
+- day: Jeudi
+  hour: 09:30 - 12:30 et 14:30 - 18:30
+- day: Vendredi
+  hour: 09:30 - 12:30 et 14:30 - 18:30
+- day: Samedi
+  hour: 09:30 - 12:30 et 14:30 - 18:30
+- day: Dimanche
+  hour: Fermé
 ---
