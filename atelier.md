@@ -24,4 +24,4 @@ Les jeudis de 14h30 à 17h30 : couture.
 
 __Ateliers anniversaires :__ le samedi de 14h30 à 16h30 (10€/enfant, fournitures comprises). Plusieurs options d'atelier sont proposées aux parents afin de personnaliser cet évènement. Et si vous le souhaitez, vous pouvez apporter le goûter. 
 
-__Ateliers exceptionnels :__ variable selon la demande et les évènements du calendrier (des annonces sont régulièrement faîtes sur <a style="color:black" href="https://www.facebook.com/Recreatives"><i class="fab fa-facebook"></i> Facebook</a>).
+__Ateliers exceptionnels :__ variable selon la demande et les évènements du calendrier (des annonces sont régulièrement faites sur <a style="color:black" href="https://www.facebook.com/Recreatives"><i class="fab fa-facebook"></i> Facebook</a>).
