@@ -2,12 +2,12 @@
     <div class="bg-faded p-4 my-4">
         <hr class="divider">
     
-        <h1 class="text-center text-lg text-uppercase my-0"><strong> {{ page.title }}</strong></h1>
+        <h1 class="text-center text-lg text-uppercase my-0"><strong>{{ page.title }}</strong></h1>
     
         <hr class="divider">
     
-        <img class="pb-3 col-12 d-md-none" src="/images/{{ page.image }}" />
-        <img class="pr-3 pb-3 float-left d-none d-md-block" width="50%" src="/images/{{ page.image }}" />
+        <img class="pb-3 col-12 d-md-none" src="/images/{{ page.image }}" alt="{{ page.title }}" />
+        <img class="pr-3 pb-3 float-left d-none d-md-block" width="50%" src="/images/{{ page.image }}" alt="{{ page.title }}" />
         {{ content }}
     </div>
 </div>
