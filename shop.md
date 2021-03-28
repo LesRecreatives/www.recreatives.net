@@ -1,7 +1,7 @@
 ---
 layout: redirect
-title:  Redirection vers la boutique Etsy des Récréatives
-description: Retrouvez toutes nos créations
+title:  Découvrez la boutique en ligne des Récréatives
+description: Retrouvez toutes nos créations en vente sur notre boutique en ligne et directement livrées chez vous.
 nav_name: La boutique
 permalink: shop
 redirect: https://www.etsy.com/fr/shop/lesrecreatives
