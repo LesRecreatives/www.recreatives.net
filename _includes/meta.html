@@ -1,6 +1,7 @@
 <title property="schema:name">{%if page.title %}{{ site.title }} {{ site.title_separator }} {{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 <meta name="description" property="schema:description"  content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
 <meta property="og:locale" content="fr_FR">
+<meta name="Language" content="fr"> 
 <meta property="og:type" content="website">
 <meta property="og:title" content="{%if page.title %}{{ site.title }} {{ site.title_separator }} {{ page.title }}{% else %}{{ site.title }}{% endif %}">
 <meta property="og:url" content="{{ site.url }}{{ page.url }}">
