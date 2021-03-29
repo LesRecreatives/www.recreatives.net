@@ -4,7 +4,7 @@ title:  "Le rond-point de l'artisanat"
 description: "La convergence d'un lieu d'exposition présentant de nombreuses compositions et productions artisanales locales avec celui permettant le Do it yourself au travers d'ateliers de loisirs créatifs dans les Landes."
 image: accueil.jpg
 nav_name: Accueil
-screenshot: accueil.png
+screenshot: accueil.jpeg
 permalink: "/"
 ---
 

@@ -4,7 +4,7 @@ title:  L'espace atelier
 description: Exprimez votre créativité grâce au Do It Yourself au travers de diverses techniques de loisirs créatifs dans l'espace atelier des Récréatives à Bégaar dans les Landes (40400).
 image: atelier.jpeg
 nav_name: l'espace atelier
-screenshot: atelier.png
+screenshot: atelier.jpeg
 permalink: espace-atelier
 ---
 
