@@ -1,11 +1,8 @@
 User-Agent: *
 Allow: /
-Allow: /atelier
+Allow: /espace-atelier
 Allow: /contact
 Allow: /shop
 Disallow: /404
 Disallow: /legal
-Disallow: /css/
-Disallow: /img/
-Disallow: /vendor/
 Sitemap: http://www.recreatives.net/sitemap.xml
