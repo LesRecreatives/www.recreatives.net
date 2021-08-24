@@ -2,7 +2,7 @@ User-Agent: *
 Allow: /
 Allow: /espace-atelier
 Allow: /contact
-Allow: /shop
+Allow: /etsy
 Disallow: /404
 Disallow: /legal
 Sitemap: http://www.recreatives.net/sitemap.xml

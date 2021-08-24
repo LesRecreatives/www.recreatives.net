@@ -1,17 +1,17 @@
-title                    : "Les Récréatives"
-title_separator          : "|"
-brief                    : "Votre espace créateurs dans les Landes"
-description              : "La convergence d'un lieu d'exposition présentant de nombreuses compositions et productions artisanales locales avec celui permettant le Do it yourself au travers d'ateliers de loisirs créatifs dans les Landes."
+title: "Les Récréatives"
+title_separator: "|"
+brief: "Votre espace créateurs dans les Landes"
+description: "La convergence d'un lieu d'exposition présentant de nombreuses compositions et productions artisanales locales avec celui permettant le Do it yourself au travers d'ateliers de loisirs créatifs dans les Landes."
 url: www.recreatives.net
 nav:
-- page: Accueil
-  permalink: "/"
+  - page: Accueil
+    permalink: "/"
 
-- page: l'espace atelier
-  permalink: espace-atelier
+  - page: l'espace atelier
+    permalink: espace-atelier
 
-- page: Contactez-nous
-  permalink: contact
+  - page: Contactez-nous
+    permalink: contact
 
-- page: La boutique en ligne
-  permalink: shop
+  - page: La boutique en ligne
+    permalink: etsy
