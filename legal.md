@@ -13,7 +13,7 @@ Siège social : SARL LES RECREATIVES BOUTIQUES ET ATELIERS 497 RTE DES CHASSEURS
 SIRET : 53445911000027  
 TVA Intracommunautaire : FR31534459110  
 Capital social : 100,00 euros  
-Téléphone : +33 (0)5 58 43 35 58  
+Téléphone : +33 (0)5 58 43 35 58
 
 ## Développement & Hébergement
 
@@ -33,7 +33,7 @@ Conformément à la loi « Informatique et Libertés » n°78-17 du 6 janvier 19
 
 L'ensemble du contenu du présent site Internet, y compris nom de domaine, marques, logo, texte… est la propriété de la société LES RECREATIVES BOUTIQUES ET ATELIERS, il est protégé par les lois en vigueur de la législation française sur la propriété intellectuelle.
 
-Aucun élément de ce site ne peut être copié, reproduit, détourné ou dénaturé, et ce, sur quelque support que ce soit, sans constituer un acte de contrefaçon au sens des articles L 335-2 et suivants du code de la propriété intellectuelle. 
+Aucun élément de ce site ne peut être copié, reproduit, détourné ou dénaturé, et ce, sur quelque support que ce soit, sans constituer un acte de contrefaçon au sens des articles L 335-2 et suivants du code de la propriété intellectuelle.
 Accès au site
 
 L'utilisateur de ce site reconnaît disposer de la compétence et des moyens nécessaires pour accéder et utiliser ce site. LES RECREATIVES BOUTIQUES ET ATELIERS ne saurait être tenu responsable des éléments en dehors de son contrôle et des dommages qui pourraient éventuellement être subis par l'environnement technique de l'utilisateur et notamment, ses ordinateurs, logiciels, équipements réseaux et tout autre matériel utilisé pour accéder ou utiliser le service et/ou les informations.
@@ -50,7 +50,7 @@ De même que la société LES RECREATIVES BOUTIQUES ET ATELIERS ne pourra en auc
 
 ### Crédits
 
-#### Photos sous licence Creative Commons Zero (CC0) :
+#### Photos sous licence Creative Commons Zero (CC0)
 
 - Image d'arrière plan par [Karolina Grabowska](https://www.pexels.com/fr-fr/photo/bureau-designer-table-colore-4219652/)
 - Image de la page d'accueil par [Kaboompics .com](https://www.pexels.com/fr-fr/photo/bois-personne-mains-femme-6435/)
