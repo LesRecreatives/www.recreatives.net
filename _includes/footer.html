@@ -19,6 +19,22 @@
         }).mouseleave(function () {
         $(this).find('iframe').removeClass('clicked')
         });
-    </script>
+    </script>	
+    <script>
+		// Hide map on initial load
+		$('.map').hide()
+
+		// Show map notice
+		$(
+			'<div class="p-5 m-3 map-notice border text-center"><p>Conformément au RGPD (<a href="https://www.cnil.fr/fr/reglement-europeen-protection-donnees">Règlement Général sur la Protection des Données</a>), le chargement automatique de Google Maps a été bloqué. Des données personnelles, telles que votre adresse IP, seront transmises à Google, avec votre accord, lorsque vous cliquerez sur "afficher la carte".</p><a href="#" class="show-map" style="text-decoration:underline;">Cliquer ici pour afficher la carte</a></div>'
+		).insertAfter('.map')
+
+		// Show map and hide notice when activated
+		$('.show-map').click(function (e) {
+			e.preventDefault()
+			$('.map-notice').fadeOut()
+			$('.map').fadeIn()
+		})
+	</script>
     {% endif%}
 </body>
